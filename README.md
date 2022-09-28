@@ -10,7 +10,7 @@ Welcome to my github profile, take your time.
 
 ## About me
 I'm a fullstack web developer, 
-       with great capacity for teamwork, great adaptability and predisposition.
+       I like to work with other people, also I have great adaptability and predisposition.
 During this year I studied and finished the full stack web developer bootcamp at Henry with +700 hours of practice/theory doing individual and group projects where I learned about  back-end and front-end bases, with extensive use of javascript with their libraries and frameworks.
 Also i´m currently on my second year at the "Universidad Nacional De Avellaneda" (UNDAV).
 
