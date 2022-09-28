@@ -41,11 +41,10 @@ Also i´m currently on my second year at the "Universidad Nacional De Avellaneda
 <br/>
 <p> 
 <a href="https://www.linkedin.com/in/diego-lucas-roldan/">
-<img  src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" width="35"/>
+<img  src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="35"/>
 </a> 
 </p>
 <p >
-<a href="mailto:diegolucas142@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
 </a>
 </p>
