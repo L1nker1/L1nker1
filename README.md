@@ -44,8 +44,7 @@ Also i´m currently on my second year at the "Universidad Nacional De Avellaneda
 <img  src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="35"/>
 </a> 
 </p>
-<p >
 diegolucas142@gmail.com
-</a>
-</p>
+
+
 
