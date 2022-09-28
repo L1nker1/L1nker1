@@ -14,9 +14,9 @@ I'm a fullstack web developer,
 During this year I studied and finished the full stack web developer bootcamp at Henry with +700 hours of practice/theory doing individual and group projects where I learned about  back-end and front-end bases, with extensive use of javascript with their libraries and frameworks.
 Also i´m currently on my second year at the "Universidad Nacional De Avellaneda" (UNDAV).
 
-- I'm currently working on finishing my e-commerce grupal project, and the CCS of a proyect about Foods I worked on at SoyHenry.
+- The lastest project I work on is an e-commerce, wich was a grupal project, and currently Im working on a Rick and Morty app.
 - I'm interested to learn more about front-end development.
--  I’m looking to collaborate on Projects.
+- I’m looking to collaborate on Projects.
 - Ask me about JavaScript, React, React Native, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Bootstrap
 
 ### Soft skills
