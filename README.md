@@ -1,4 +1,4 @@
-# L1ker1
+
 Mi repositorio personal
 
 ![logo](https://res.cloudinary.com/dam8cpdbq/image/upload/v1664279299/Hello_world_Welcome_to_my_profile_ifeks0.gif)
